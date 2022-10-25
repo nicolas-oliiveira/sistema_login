@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 06-Set-2022 às 17:39
+-- Tempo de geração: 25-Out-2022 às 16:13
 -- Versão do servidor: 10.4.22-MariaDB
 -- versão do PHP: 8.1.2
 
@@ -43,7 +43,7 @@ CREATE TABLE `cadastro` (
 --
 
 INSERT INTO `cadastro` (`id`, `email`, `senha`, `endereco`, `bairro`, `cep`, `cidade`, `estado`) VALUES
-(1, 'xarabab@gmail.com', '122313123', 'casa do nicolas, 48', 'itaim', 12345678, 'xcabab', 'AC');
+(1, 'nicolas@gmail.com', '123', 'minha casa, 85', 'itaim paulista', 12345678, 'sao paulo', 'SP');
 
 --
 -- Índices para tabelas despejadas
